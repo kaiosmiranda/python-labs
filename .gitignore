@@ -1,0 +1,31 @@
+# Arquivos de sistema do macOS
+.DS_Store
+
+# Ambientes virtuais do Python
+venv/
+env/
+.venv/
+.env/
+
+# Arquivos compilados do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+#Pastas de IDEs
+.vscode/
+.idea/
+
+# Arquivos de log e bancos de dados locais
+*.log
+*.sqlite
+*.db
+
+# Arquivos de variáveis de ambiente com senhas e chaves locais
+.env
+
+# Arquivos gerados por testes
+.pytest_cache/
+.coverage
+htmlcov/
