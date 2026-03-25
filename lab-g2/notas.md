@@ -4,7 +4,7 @@ Objetivo: Praticar o padrão conventional commits com 5 commits reais.
 
 
 
-# Commits
+## Commits
 
 Irão ser testadas apenas essas categorias de commits:
 
